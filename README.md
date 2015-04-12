@@ -1,2 +1,5 @@
-# datasciencecoursera
-Course work for Data Scientists Toolbox via Coursera and Johns Hopkins
+# testGitDir
+## experimenting with creating repositories
+### and the various Git Commands to move files
+### back and forth between my local repository
+### and GitHub.com
